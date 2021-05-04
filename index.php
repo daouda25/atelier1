@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
+<meta charset="uft-8">
+<title> mon premier page php</title>
 </head>
 <body>
-    <h1>hello team</h1>
+// <h1>bonjour</h1>
+
+<?php echo <p> bonjour voila mon test php </p>;?>
 </body>
 </html>
